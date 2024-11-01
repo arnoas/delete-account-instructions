@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Borrar tu Cuenta</title>
+</head>
+<body>
+  <h1>Peticion de eliminacion</h1>
+  <p>Si deseas eliminar tu cuenta, dentro de la App:</p>
+  <ol>
+    <li>Abre la aplicacion y ve a el icono de usuario, donde esta tu perfil</li>
+    <li>Seleccionar "Delete Account" y tu usuario será eliminado tanto de la app como de la base de datos, además de cualquier otro registro que tengamos de ústed</li>
+  </ol>
+  <p>Si tienes algun problema contacta con nosotros/as <a href="mailto:arnoaspsicosinlimites@gmail.com">arnoaspsicosinlimites@gmail.com</a>.</p>
+</body>
+</html>
